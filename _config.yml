@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : "/assets/images/eagle.jpg" # path of avatar image, e.g. 
-  bio              : "programmars"
+  bio              : "Programmer"
   location         : "Seoul"
   email            : "nopain343@naver.com"
   links:
