@@ -20,8 +20,8 @@ title                    : "Today I Learned"
 title_separator          : "-"
 name                     : "Today"
 description              : "Today I Learned"
-url                      : the base hostname & protocol for your site e.g. "https://nopain343.github.com"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://nopain343.github.com" the base hostname & protocol for your site e.g. 
+baseurl                  : "" # the subpath of your site, e.g. 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
